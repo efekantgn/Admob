@@ -1,0 +1,14 @@
+{
+    "name": "com.efekan.admob",
+    "rootNamespace": "Efekan.Ads.Admob",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
